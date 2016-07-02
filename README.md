@@ -60,3 +60,5 @@ EMUUSBAudioDevice::initHardwareThread(EMUUSBAudioDevice*, void*) (in EMUUSBAudio
 0xffffff8006d0f1ea
 0xffffff8006dc8e27
 ```
+
+The trace usually leaves some un-interpreted hex addresses for functions that it could not resolve.
